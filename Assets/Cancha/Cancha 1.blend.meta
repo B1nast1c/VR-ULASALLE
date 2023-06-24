@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Cancha-Basket
+    second: {fileID: 2100000, guid: 6b37d4cfaef8230448579f2076f71519, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Material.011
     second: {fileID: 2100000, guid: 28978501d3b351a4096ebffc167d789d, type: 2}
   - first:
@@ -14,6 +19,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Material.032
     second: {fileID: 2100000, guid: 6b37d4cfaef8230448579f2076f71519, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pared
+    second: {fileID: 2100000, guid: 28978501d3b351a4096ebffc167d789d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

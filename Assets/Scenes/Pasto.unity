@@ -3133,6 +3133,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Cancha 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2661215666156734702, guid: 31924c5dc8abcf144b6e8ef075b4165c,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d2cc817b91a456047b63f0cc02566d7e, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 31924c5dc8abcf144b6e8ef075b4165c, type: 3}
 --- !u!1001 &792714778

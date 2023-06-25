@@ -12,6 +12,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Cancha-Volley
+    second: {fileID: 2100000, guid: e7f4b5f8819553f428cb43ec01a4664e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mallla-Arco
+    second: {fileID: 2100000, guid: 51fb72d951ae3a941bbb5e64e948ed65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Material.011
     second: {fileID: 2100000, guid: 28978501d3b351a4096ebffc167d789d, type: 2}
   - first:
@@ -28,6 +38,16 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: basket_table_edges
+    second: {fileID: 2100000, guid: 3c7de60a6d4495840a6a302e8d103f86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blanco
+    second: {fileID: 2100000, guid: d2cc817b91a456047b63f0cc02566d7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tablero-tubo
     second: {fileID: 2100000, guid: 3c7de60a6d4495840a6a302e8d103f86, type: 2}
   materials:
     materialImportMode: 2
